@@ -1,0 +1,62 @@
+body
+{
+	font-family:Arial, Times, serif;
+	color:black;
+	background-color:#c7d1e3;
+	background-image: url(images/fond.jpg);
+	background-position: right bottom;
+	background-repeat:no-repeat;
+}
+h1
+{
+	font-weight: bold;
+	font-size:1.3em;
+	font-style:italic;
+	color:navy;
+	text-align:center;
+	padding:6px;
+}
+
+#page
+{
+	width:800px;
+	min-height:580px;
+	margin:auto;
+	margin-bottom:0px;
+	position:relative;
+	padding-bottom:10px;
+	background-color:white;
+}
+#bas
+{
+	margin-bottom:-14px;
+	position:absolute;
+	bottom:0px;
+}
+
+#contenu
+{
+	margin-bottom:70px;
+}
+
+#sectionFormConnexion
+{
+	border:2px solid #777;
+	width:380px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:8px;
+	padding:6px;
+	background-color:#ccc;
+	color:black;
+}
+#sectionBoutons
+{
+	text-align:right;
+}
+#sectionLogin label
+{
+	display:inline-block;
+	width:100px;
+}
+
